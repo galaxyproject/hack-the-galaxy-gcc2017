@@ -1,10 +1,5 @@
 # GCC Hackathon
 
-Find out what you need to know about this year’s hackathons.
-
-Coding Hackathon information   
-[Data Wrangling Hackathon information](https://github.com/galaxyproject/gcc-datathon-2017)
-
 ## What is a hackathon?
 
 Hackathons are driven by the people who attend them. Participants propose and coalesce around a set of core goals and projects beforehand, or early on the first day, and then spend the rest of their time working together towards those goals. It’s an intense event at which people with different backgrounds and skills collaborate hands on and face to face to create deliverables that are useful to the community as a whole. Hackathons gather people in a room, where they can focus on the task at hand, free of distractions.

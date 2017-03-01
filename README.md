@@ -3,7 +3,7 @@
 Find out what you need to know about this year’s hackathons.
 
 Coding Hackathon information   
-[Data Wrangling Hackathon information](#data_wrangling)
+[Data Wrangling Hackathon information](https://github.com/galaxyproject/gcc-datathon-2017)
 
 ## What is a hackathon?
 

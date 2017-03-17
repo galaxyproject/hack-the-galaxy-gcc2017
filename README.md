@@ -36,3 +36,9 @@ The official hackathons are over, but we strongly encourage teams to continue wo
 Join us on [IRC (irc.freenode.net, #galaxyproject)](https://wiki.galaxyproject.org/Support/IRC) and keep on hacking! Not sure how to use IRC? See the [GalaxyProject.org IRC Support](http://wiki.galaxyproject.org/Support/IRC) wiki.
 
 
+#### Organizers
+
+- Anthony Bretaudeau, @abretaud
+- Julien Seiler, @julozi
+- Marius van den Beek, @mvdbeek
+- Dannon Baker, @dannon

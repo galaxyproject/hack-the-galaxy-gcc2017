@@ -41,4 +41,5 @@ Join us on [IRC (irc.freenode.net, #galaxyproject)](https://wiki.galaxyproject.
 - Anthony Bretaudeau, @abretaud
 - Julien Seiler, @julozi
 - Marius van den Beek, @mvdbeek
+- Björn Grüning, @bgruening
 - Dannon Baker, @dannon

@@ -1,5 +1,4 @@
 ---
-auto: toc
 title: Hack the Galaxy @ GCC2017
 ---
 

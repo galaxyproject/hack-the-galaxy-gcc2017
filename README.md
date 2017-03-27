@@ -67,7 +67,7 @@ https://gcc2017.sciencesconf.org/
 
 The main goal of the User Hack is to **clarify and resolve issues with Galaxy usability from a user’s perspective**. Participants will work on projects within a User Hack team or collaborate with participants of the Dev Hack to improve the way scientists use and learn Galaxy. 
 
-Other important goals are to bring the community of Galaxy scientific users together, along with the Code Hack participants, where all can have direct input on development initiatives, propose tool ideas and solutions, plus contribute expertise and practical content.
+Other important goals are to bring the community of Galaxy scientific User Hackers together, along with the Dev Hackers, where all can have direct input on development initiatives, propose tool ideas and solutions, plus contribute expertise and practical content.
 
 #### Prerequisites
 

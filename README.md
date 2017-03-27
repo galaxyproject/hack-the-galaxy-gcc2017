@@ -52,28 +52,61 @@ Join us on [IRC (irc.freenode.net, #galaxyproject)](https://wiki.galaxyproject.
 
 ## User Hack
 
-We are inviting Galaxy power end users as well as scientists and bioinformaticians that design Galaxy tools and/or workflows to join us for the 3rd Annual GCC Data Wrangling Hackathon. 
+We are inviting Galaxy users, tool and workflow developers, bioinformaticians, and scientists from all fields to join us for the 3rd Annual User Hack the Galaxy @ GCC2017! 
 
-The main goal of this hackathon is to clarify and resolve issues with Galaxy usability from an end user perspective together with the participants of the GCC2017 Coding Hackathon. Specific goals include refining existing tools and functionality, identifying key tools for new wrappers (including input for tool form design/functionality), and contributing scientific experience and expertise to improve the user experience when performing analysis within Galaxy. This real-time interaction between scientists and coders is intended to facilitate the completion of modifications that are directly integrated into the core production code and associated tools.
+### Goals
 
-For this hackathon, or datathon, as we like to call it, collaborations are expected to continue after GCC2017 concludes. Wranglers will learn how to propose ideas, where to get involved in active development efforts, and when to follow up on projects that extend beyond the data hackathon. During GCC2015, the GalaxyScientists user group was formed. We are encouraging this group to grow and to have active on-going involvement in development activities throughout this next year and beyond.
+The main goal of the User Hack is to **clarify and resolve issues with Galaxy usability from a user’s perspective**. Participants will work on projects within a User Hack team or collaborate with participants of the Dev Hack to improve the way scientists use and learn Galaxy. 
 
-In order to meet these goals, interaction with the coding hackathon is a must. 
+Other important goals are to bring the community of Galaxy scientific users together, along with the Dev Hack participants, where all can have direct input on development initiatives, propose tool ideas and solutions, plus contribute expertise and practical content.
+
+### Prerequisites
+
+Participants are encouraged to become familiar with Galaxy before GCC and should review the latest Galaxy tutorials on interacting with the user interface and performing common operations. Participants should also create a free Github account and review basic GitHub utilities such as creating and commenting on issues. Participants are strongly encouraged to post potential User Hack projects as issues on GitHub. Please contact the organizers if you have any questions about prerequisites. We can help you get ready!
+
+### Schedule
+
+The User Hack schedule is largely dictated by what participants want to do. Both the User and Dev Hack are officially scheduled for two days, Monday June 26th and Tuesday June 27th. The second day overlaps with the first day of training. User Hack organizers will support follow-up efforts to complete projects and publish work to the public code base and end-user resources. 
+
+###### Before the Hack: Prepare
+
+To optimize productivity and collaboration during the User Hack, organizers have created a GitHub repository to track ideas and progress throughout the event. Participants are encouraged to post project ideas and updates in the repository’s issue section here, and everyone is encouraged to communicate through the Hack gitter channel. 
+
+Please contact the organizers if you have any questions about GitHub, gitter, or preparing for the User Hack. Organizers will also be offering short technical help sessions on these and other topics throughout the User Hack.
+
+###### Day 1: Monday June 26th
+
+The first day of the User Hack will start with introductions and discussions of potential projects. Participants will then organize into project teams, and at the end of the day participants will give short progress updates and discuss any issues.
+
+###### Day 2: Tuesday, June 27th
+
+The second day of the User Hack will focus on continuing project progress. At the end of day participants will give short project summaries and establish future collaborations and end goals.
+
+###### After the Hack: GCC2017 and beyond
+
+User and Dev Hack lightning talks will take place at the end of the last day at GCC2017. The User Hack GitHub repository and gitter channel will remain open to facilitate ongoing collaboration for Hack the Galaxy projects.
+
+### Suggested topics
+
+Below are potential projects for the User Hack along with a suggested level of Galaxy expertise. This is a short list, so please add your own projects too! How? Open an issue or propose a project here in Github to get the collaboration discussions started!
+
+* Implement and improve Galaxy tools, workflows, interactive environments, and visualizations. This project can be done in collaboration with participants of the Dev Hack. (beginner)
+* Improve and expand Galaxy training materials including: test datasets, workflows, interactive tours, and best practices. (beginner/intermediate)
+* Develop training and documentation for Galaxy Flavors. (advanced)
 
 ### Who should attend?
+* Galaxy power users and bioinformaticians with ideas about how to best construct start-to-end analyses and workflows
+* Galaxy users passionate about improving Galaxy’s usability in cooperation with developers
+* Students, postdocs, and researchers from any field who perform or want to perform large-scale data analyses
+* Everyone!
 
-The GCC2017 Data Wrangling Hackathon is for you, if you
+### Questions
+See the Hack the Galaxy @ GCC2017 page for more information, and contact the User Hack organizers if you have any questions.
 
-*   are a Galaxy power user or bioinformatics specialist with ideas about how to best construct start-to-end analysis and workflows,
+### Organizers
 
-*   are passionate about improving Galaxy’s usability in cooperation with developers,
-
-*   optimally have time after GCC2017 to work on issues/ideas that arose during the hackathon,
-
-*   are a Ph.D. student, postdoc, or non-managing scientific staff.
-
-Of course, everybody is welcome.
-
-#### Questions?
-
-See the general GCC2017 hackathons page for more information and please contact the [GCC2017 Data Wrangling Hackathon organizers](mailto:gcc_2017_hckdata@groupes.france-bioinformatique.fr) if you have any questions.
+- Stephanie Le Gras, @
+- Yvan Le Bras, @
+- Frederik Coppens, @
+- Jen Hillman-Jackson, @
+- Mallory Freeberg, @malloryfreeberg

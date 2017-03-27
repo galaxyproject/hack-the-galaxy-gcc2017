@@ -79,21 +79,21 @@ Participants are encouraged to become familiar with Galaxy before GCC and should
 
 The User Hack schedule is largely dictated by what participants want to do. Both the User and Dev Hack are officially scheduled for two days, Monday June 26th and Tuesday June 27th. The second day overlaps with the first day of training. User Hack organizers will support follow-up efforts to complete projects and publish work to the public code base and end-user resources. 
 
-##### Before the Hack: Prepare
+###### Before the Hack: Prepare
 
 To optimize productivity and collaboration during the User Hack, organizers have created a [GitHub repository](https://github.com/galaxyproject/gcc-datathon-2017) to track ideas and progress throughout the event. Participants are encouraged to post project ideas and updates in this hack repository’s "Issues" and "Projects" areas above, and everyone is encouraged to communicate through the [Hack gitter channel](https://gitter.im/galaxyproject/Lobby). 
 
 Please contact the organizers if you have any questions about GitHub, gitter, or preparing for the User Hack. Organizers will also be offering short technical help sessions on these and other topics throughout the User Hack.
 
-##### Day 1: Monday June 26th
+###### Day 1: Monday June 26th
 
 The first day of the User Hack will start with introductions and discussions of potential projects. Participants will then organize into project teams, and at the end of the day participants will give short progress updates and discuss any issues.
 
-##### Day 2: Tuesday, June 27th
+###### Day 2: Tuesday, June 27th
 
 The second day of the User Hack will focus on continuing project progress. At the end of day participants will give short project summaries and establish future collaborations and end goals.
 
-##### After the Hack: GCC2017 and beyond
+###### After the Hack: GCC2017 and beyond
 
 User and Dev Hack lightning talks will take place at the end of the last day at GCC2017. The User Hack GitHub repository and gitter channel will remain open to facilitate ongoing collaboration for Hack the Galaxy projects.
 

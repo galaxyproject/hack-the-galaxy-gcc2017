@@ -125,4 +125,4 @@ Please reach out to the the [GCC2017 User Hack organizers](mailto:gcc_2017_hckda
 * Yvan Le Bras - @
 * Stephanie Le Gras - @
 * Mo Heydarian - @
-* Jennifer Hillman-Jackson - [Galaxy Project](https://galaxyproject.org/), [Penn State](https://galaxyproject.org/people/jennifer-jackson/), @jennaj
+* Jennifer Hillman-Jackson - [Galaxy Project](https://galaxyproject.org/), [Penn State](https://galaxyproject.org/people/jennifer-jackson/), [@jennaj](https://github.com/jennaj/)

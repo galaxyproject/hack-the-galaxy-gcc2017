@@ -74,8 +74,7 @@ Other important goals are to bring the community of Galaxy scientific users toge
 
 Participants are encouraged to become familiar with Galaxy before GCC and should review the latest [Galaxy tutorials](https://galaxyproject.org/learn/index.md) on interacting with the user interface and performing common operations. Participants should also [create a free Github account](https://help.github.com/articles/signing-up-for-a-new-github-account/) and review basic GitHub utilities such as [creating and commenting on issues](https://help.github.com/articles/creating-an-issue/). *Participants are strongly encouraged to post potential User Hack projects as issues on GitHub*. Please contact the organizers if you have any questions about prerequisites. We can help you get ready!
 
-* User Hack @ Github: https://github.com/galaxyproject/gcc-datathon-2017/issues
-* Dev Hack @ Github: https://github.com/galaxyproject/gcc-hackathon-2017/issues
+* Hack the Galaxy GCC2017 @ Github: https://github.com/galaxyproject/hack-the-galaxy-gcc2017
 
 ### Schedule
 
@@ -83,7 +82,7 @@ The User Hack schedule is largely dictated by what participants want to do. Both
 
 #### Before the Hack: Prepare
 
-To optimize productivity and collaboration during the User Hack, organizers have created a [GitHub repository](https://github.com/galaxyproject/gcc-datathon-2017) to track ideas and progress throughout the event. Participants are encouraged to post project ideas and updates in the repository’s issue section [here](https://github.com/galaxyproject/gcc-hackathon-2017/issues) (also "Issues" link above), and everyone is encouraged to communicate through the [Hack gitter channel](https://gitter.im/galaxyproject/Lobby). 
+To optimize productivity and collaboration during the User Hack, organizers have created a [GitHub repository](https://github.com/galaxyproject/gcc-datathon-2017) to track ideas and progress throughout the event. Participants are encouraged to post project ideas and updates in this hack repository’s "Issues" and "Projects" areas above, and everyone is encouraged to communicate through the [Hack gitter channel](https://gitter.im/galaxyproject/Lobby). 
 
 Please contact the organizers if you have any questions about GitHub, gitter, or preparing for the User Hack. Organizers will also be offering short technical help sessions on these and other topics throughout the User Hack.
 

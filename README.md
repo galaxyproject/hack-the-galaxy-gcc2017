@@ -1,3 +1,9 @@
+---
+auto: toc
+title: Hack the Galaxy @ GCC2017
+---
+
+
 # Hack the Galaxy @ GCC2017
 
 (text is a placeholder)
@@ -50,63 +56,73 @@ Join us on [IRC (irc.freenode.net, #galaxyproject)](https://wiki.galaxyproject.
 - Dannon Baker, @dannon
 
 
-## User Hack
+## User Hack @ GCC2017
 
-We are inviting Galaxy users, tool and workflow developers, bioinformaticians, and scientists from all fields to join us for the 3rd Annual User Hack the Galaxy @ GCC2017! 
+We are inviting Galaxy users, tool and workflow developers, bioinformaticians, and scientists from all fields to join us for the **[3rd Annual User Hack the Galaxy @ GCC2017](https://gcc2017.sciencesconf.org/resource/page/id/10)**! 
+
+### Get registered
+
+https://gcc2017.sciencesconf.org/
 
 ### Goals
 
 The main goal of the User Hack is to **clarify and resolve issues with Galaxy usability from a user’s perspective**. Participants will work on projects within a User Hack team or collaborate with participants of the Dev Hack to improve the way scientists use and learn Galaxy. 
 
-Other important goals are to bring the community of Galaxy scientific users together, along with the Dev Hack participants, where all can have direct input on development initiatives, propose tool ideas and solutions, plus contribute expertise and practical content.
+Other important goals are to bring the community of Galaxy scientific users together, along with the Code Hack participants, where all can have direct input on development initiatives, propose tool ideas and solutions, plus contribute expertise and practical content.
 
 ### Prerequisites
 
-Participants are encouraged to become familiar with Galaxy before GCC and should review the latest Galaxy tutorials on interacting with the user interface and performing common operations. Participants should also create a free Github account and review basic GitHub utilities such as creating and commenting on issues. Participants are strongly encouraged to post potential User Hack projects as issues on GitHub. Please contact the organizers if you have any questions about prerequisites. We can help you get ready!
+Participants are encouraged to become familiar with Galaxy before GCC and should review the latest [Galaxy tutorials](https://galaxyproject.org/learn/index.md) on interacting with the user interface and performing common operations. Participants should also [create a free Github account](https://help.github.com/articles/signing-up-for-a-new-github-account/) and review basic GitHub utilities such as [creating and commenting on issues](https://help.github.com/articles/creating-an-issue/). *Participants are strongly encouraged to post potential User Hack projects as issues on GitHub*. Please contact the organizers if you have any questions about prerequisites. We can help you get ready!
+
+* User Hack @ Github: https://github.com/galaxyproject/gcc-datathon-2017/issues
+* Dev Hack @ Github: https://github.com/galaxyproject/gcc-hackathon-2017/issues
 
 ### Schedule
 
 The User Hack schedule is largely dictated by what participants want to do. Both the User and Dev Hack are officially scheduled for two days, Monday June 26th and Tuesday June 27th. The second day overlaps with the first day of training. User Hack organizers will support follow-up efforts to complete projects and publish work to the public code base and end-user resources. 
 
-###### Before the Hack: Prepare
+#### Before the Hack: Prepare
 
-To optimize productivity and collaboration during the User Hack, organizers have created a GitHub repository to track ideas and progress throughout the event. Participants are encouraged to post project ideas and updates in the repository’s issue section here, and everyone is encouraged to communicate through the Hack gitter channel. 
+To optimize productivity and collaboration during the User Hack, organizers have created a [GitHub repository](https://github.com/galaxyproject/gcc-datathon-2017) to track ideas and progress throughout the event. Participants are encouraged to post project ideas and updates in the repository’s issue section [here](https://github.com/galaxyproject/gcc-hackathon-2017/issues) (also "Issues" link above), and everyone is encouraged to communicate through the [Hack gitter channel](https://gitter.im/galaxyproject/Lobby). 
 
 Please contact the organizers if you have any questions about GitHub, gitter, or preparing for the User Hack. Organizers will also be offering short technical help sessions on these and other topics throughout the User Hack.
 
-###### Day 1: Monday June 26th
+#### Day 1: Monday June 26th
 
 The first day of the User Hack will start with introductions and discussions of potential projects. Participants will then organize into project teams, and at the end of the day participants will give short progress updates and discuss any issues.
 
-###### Day 2: Tuesday, June 27th
+#### Day 2: Tuesday, June 27th
 
 The second day of the User Hack will focus on continuing project progress. At the end of day participants will give short project summaries and establish future collaborations and end goals.
 
-###### After the Hack: GCC2017 and beyond
+#### After the Hack: GCC2017 and beyond
 
 User and Dev Hack lightning talks will take place at the end of the last day at GCC2017. The User Hack GitHub repository and gitter channel will remain open to facilitate ongoing collaboration for Hack the Galaxy projects.
 
 ### Suggested topics
 
-Below are potential projects for the User Hack along with a suggested level of Galaxy expertise. This is a short list, so please add your own projects too! How? Open an issue or propose a project here in Github to get the collaboration discussions started!
+Below are potential projects for the User Hack along with a suggested level of Galaxy expertise. This is a short list, so [please add your own projects, too](https://github.com/galaxyproject/hack-the-galaxy-gcc2017/projects)! How? Open an issue or propose a project here in Github to get the collaboration discussions started!
 
-* Implement and improve Galaxy tools, workflows, interactive environments, and visualizations. This project can be done in collaboration with participants of the Dev Hack. (beginner)
-* Improve and expand Galaxy training materials including: test datasets, workflows, interactive tours, and best practices. (beginner/intermediate)
-* Develop training and documentation for Galaxy Flavors. (advanced)
+ * Implement and improve Galaxy tools, workflows, interactive environments, and visualizations. This project can be done in collaboration with participants of the Dev Hack. (beginner)
+ * Improve and expand [Galaxy training materials](http://galaxyproject.github.io/training-material/) including: test datasets, workflows, interactive tours, and best practices. (beginner/intermediate)
+ * Develop training and documentation for Galaxy Flavors. (advanced)
 
-### Who should attend?
-* Galaxy power users and bioinformaticians with ideas about how to best construct start-to-end analyses and workflows
-* Galaxy users passionate about improving Galaxy’s usability in cooperation with developers
-* Students, postdocs, and researchers from any field who perform or want to perform large-scale data analyses
-* Everyone!
+### Who should attend
 
+ * Galaxy power users and bioinformaticians with ideas about how to best construct start-to-end analyses and workflows
+ * Galaxy users passionate about improving Galaxy’s usability in cooperation with developers
+ * Students, postdocs, and researchers from any field who perform or want to perform large-scale data analyses
+ * Everyone!
+ 
 ### Questions
-See the Hack the Galaxy @ GCC2017 page for more information, and contact the User Hack organizers if you have any questions.
+
+Please reach out to the the [GCC2017 User Hack organizers](mailto:gcc_2017_hckdata@groupes.france-bioinformatique.fr) should you have any questions or feedback about the event.
 
 ### Organizers
 
-- Stephanie Le Gras, @
-- Yvan Le Bras, @
-- Frederik Coppens, @
-- Jen Hillman-Jackson, @
-- Mallory Freeberg, @malloryfreeberg
+* Frederik Coppens - @
+* Mallory Freeberg - @
+* Yvan Le Bras - @
+* Stephanie Le Gras - @
+* Mo Heydarian - @
+* Jennifer Hillman-Jackson - [Galaxy Project](https://galaxyproject.org/), [Penn State](https://galaxyproject.org/people/jennifer-jackson/), @jennaj

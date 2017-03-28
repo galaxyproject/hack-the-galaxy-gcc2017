@@ -118,9 +118,10 @@ Please reach out to the the [GCC2017 User Hack organizers](mailto:gcc_2017_hckda
 
 #### Organizers
 
-* Frederik Coppens - @
-* Mallory Freeberg - @
-* Yvan Le Bras - @
-* Stephanie Le Gras - @
-* Mo Heydarian - @
-* Jennifer Hillman-Jackson - [Galaxy Project](https://galaxyproject.org/), [Penn State](https://galaxyproject.org/people/jennifer-jackson/), [@jennaj](https://github.com/jennaj/)
+* Frederik Coppens, @frederikcoppens 
+* Mallory Freeberg, @malloryfreeberg
+* Yvan Le Bras, @yvanlebras
+* Stephanie Le Gras, @slegras
+* Mo Heydarian, @MoHeydarian
+* Jennifer Hillman-Jackson, @jennaj
+* Christian Schudoma, @cschu

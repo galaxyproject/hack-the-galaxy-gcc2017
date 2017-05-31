@@ -41,7 +41,7 @@ Hackathon activities continue. We’ll have project status updates in the mornin
 The official hackathons are over, but we strongly encourage teams to continue working together throughout the remainder of GCC2017.
 
 
-###### After GCC2016
+###### After GCC2017
 
 Join us on [IRC (irc.freenode.net, #galaxyproject)](https://wiki.galaxyproject.org/Support/IRC) and keep on hacking! Not sure how to use IRC? See the [GalaxyProject.org IRC Support](http://wiki.galaxyproject.org/Support/IRC) wiki.
 
